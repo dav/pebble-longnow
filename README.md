@@ -15,3 +15,8 @@ To build, the project should be installed as a child of the typical pebble-sdk d
     iOS/
     pebble-longnow/
     version.txt
+
+To Do
+==============
+- make it more interesting somehow. Display next seminar info or latest clock status updates?
+- better graphics/design
